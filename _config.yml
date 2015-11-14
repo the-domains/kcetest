@@ -1,0 +1,23 @@
+name: KCEtest
+favicon: null
+layout_spectrum: 0.9473135613370687
+typography_spectrum: 0.4598608121741563
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7435728907585144
+  lightness: 0.8539625694975257
+  saturation: 0.4857341686729342
+  rhythmicContrast: 0.0210518769454211
+purpose: []
